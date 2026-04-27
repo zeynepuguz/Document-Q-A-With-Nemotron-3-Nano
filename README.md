@@ -35,5 +35,7 @@ Launch the application using Streamlit:
 ```bash
 streamlit run app.py
 
-![App Screenshot](assets/image.png)
-![App Screenshot 2](assets/image1.png)
+<p align="center">
+  <img src="assets/image.png" width="45%">
+  <img src="assets/image1.png" width="45%">
+</p>
