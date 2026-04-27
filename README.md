@@ -35,6 +35,5 @@ Launch the application using Streamlit:
 ```bash
 streamlit run app.py
 
-![image](C:\Models\document-q&a-with-nemotron3-nano\assets\image.png)
-
-![image1](C:\Models\document-q&a-with-nemotron3-nano\assets\image1.png)
+![App Screenshot](assets/image.png)
+![App Screenshot 2](assets/image1.png)
